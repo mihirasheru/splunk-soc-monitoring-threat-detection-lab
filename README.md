@@ -10,7 +10,7 @@ The lab uses Windows as the target endpoint and Kali Linux to generate controlle
 
 ## System Architecture
 
-![System Architecture](Screenshots/system-architecture.png)
+![System Architecture](Screenshots/architecture.png)
 
 ### Architecture Components
 
